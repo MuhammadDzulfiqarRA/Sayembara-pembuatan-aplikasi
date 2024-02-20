@@ -8,3 +8,4 @@ Please use the following format:<br>
 
 This is the list of a volunteer that has been accepted:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Muhammad DZulfiqar, [LinkedIn](ini link github)
